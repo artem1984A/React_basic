@@ -68,6 +68,7 @@ Contains mock data about recipes, including their names, images, nutritional inf
 Data Format
 
 The recipes are stored in data.js in JSON format. Here’s an example structure for each recipe:
+
 {
   "recipe": {
     "label": "Paleo Chocolate Covered Caramels",
@@ -85,6 +86,7 @@ The recipes are stored in data.js in JSON format. Here’s an example structure 
     "healthLabels": ["Low-Sodium", "Vegetarian"]
   }
 }
+
 License
 
 This project is licensed under the MIT License.
