@@ -32,11 +32,7 @@ npm install
 # or
 yarn install
 
-can be used command:
 
-npm run dev 
-
-(for priview by Vite )
 
 npm run dev
 # or
